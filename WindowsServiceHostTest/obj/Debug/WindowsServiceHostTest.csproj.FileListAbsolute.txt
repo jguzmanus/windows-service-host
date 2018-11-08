@@ -1,0 +1,6 @@
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\bin\Debug\WindowsServiceHostTest.exe.config
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\bin\Debug\WindowsServiceHostTest.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\bin\Debug\WindowsServiceHostTest.pdb
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\obj\Debug\WindowsServiceHostTest.csprojResolveAssemblyReference.cache
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\obj\Debug\WindowsServiceHostTest.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\WindowsServiceHostTest\WindowsServiceHostTest\obj\Debug\WindowsServiceHostTest.pdb
